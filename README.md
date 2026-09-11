@@ -1,16 +1,50 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mwtheuskkj/mwtheuskkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🦔 Welcome to my profile! ⚡
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Gotta_Go_Fast!-0066FF?style=for-the-badge&logo=sonic-the-hedgehog&logoColor=white" alt="Gotta Go Fast" />
+<img src="https://img.shields.io/badge/Theme-Blue_Speed-0044AA?style=for-the-badge" alt="Theme Blue" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/>
+
+> *"Running wild and free — through code and databases at supersonic speed!"*
+
+---
+
+### 🌀 About Me
+
+Olá! Sou um entusiasta da tecnologia correndo na velocidade do som para dominar novas habilidades e construir projetos incríveis.
+
+- 🏃‍♂️ **Foco atual:** Evoluindo diariamente no desenvolvimento de software.
+- ⚡ **Nível de velocidade:** Sempre buscando otimizar código e performance.
+- 🎯 **Objetivo:** Dominar a arte de criar aplicações eficientes e estruturadas.
+
+---
+
+### 📊 Current Power-Ups (Atualmente Aprendendo)
+
+<div align="center">
+
+| Power-Up | Tecnologia | Descrição |
+| :---: | :---: | :--- |
+| 🐍 | **Python** | Coletando "Chaos Emeralds" da programação orientada a objetos, automação e lógica. |
+| 🗄️ | **Banco de Dados** | Organizando dados tão rápido quanto o Sonic coleta anéis (SQL & Modelagem). |
+
+</div>
+
+<br/>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Seu Nome"
+        self.speed = "Supersonic"
+        self.learning = ["Python", "Databases"]
+        self.favorite_color = "Blue"
+
+    def level_up(self):
+        return "Gotta Go Fast to the next level! 🦔⚡"
+
+
+me = Developer()
+print(me.level_up())
