@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦔 Welcome to my profile! ⚡
+# 🦔 Bem-vindo ao meu perfil! ⚡
 
 <img src="https://img.shields.io/badge/Gotta_Go_Fast!-0066FF?style=for-the-badge&logo=sonic-the-hedgehog&logoColor=white" alt="Gotta Go Fast" />
 <img src="https://img.shields.io/badge/Theme-Blue_Speed-0044AA?style=for-the-badge" alt="Theme Blue" />
@@ -11,7 +11,7 @@
 
 ---
 
-### 🌀 About Me
+### 🌀 Sobre mim 🌀
 
 Olá! Sou um entusiasta da tecnologia correndo na velocidade do som para dominar novas habilidades e construir projetos incríveis.
 
@@ -21,7 +21,7 @@ Olá! Sou um entusiasta da tecnologia correndo na velocidade do som para dominar
 
 ---
 
-### 📊 Current Power-Ups (Atualmente Aprendendo)
+### 📊 Atualmente Aprendendo 📊
 
 <div align="center">
 
