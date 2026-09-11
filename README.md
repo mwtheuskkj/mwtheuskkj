@@ -64,7 +64,7 @@ Olá! Sou um entusiasta da tecnologia correndo na velocidade do som para dominar
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Seu Nome"
+        self.name = "Matheus Pentogennis"
         self.speed = "Supersonic"
         self.learning = ["Python", "Databases"]
         self.favorite_color = "Blue"
