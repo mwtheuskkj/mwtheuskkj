@@ -1,64 +1,61 @@
 <div align="center">
 
-<img src="./assets/sonic.png" width="170" alt="Sonic">
+<img src="assets/angel-island.svg" alt="Angel Island" width="100%"/>
 
-# Teus
+<br>
 
-**Estudante de Ciência da Computação • Tecnologia • Control Tower**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Aprendendo.+Construindo.+Evoluindo." alt="Animação">
-
-</div>
-
----
-
-## 🦔 Sobre mim
-
-<img align="right" src="./assets/sonic.png" width="115" alt="Sonic">
-
-Sou **estudante de Ciência da Computação**, interessado em tecnologia e em transformar o que aprendo em prática.
-
-- 🐍 **Python**
-- 🗄️ **Banco de Dados — PostgreSQL**
-- 🖥️ **Suporte de TI & Hardware**
-- 🎛️ **Analista Control Tower — MAPFRE/MAWDY**
-- 🤖 **IA — Claude, GPT & Gemini**
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=1E90FF&center=true&vCenter=true&width=420&lines=%3E+Sobre+mim...;%3E+sempre+aprendendo+algo+novo." alt="Sobre mim">
-</div>
-
----
-
-## 💻 Estudos & interesses
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,windows" height="48" alt="Tecnologias">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
-<img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini">
+<img src="assets/sonic.gif" alt="Sonic" width="110"/>
+<img src="assets/tails.gif" alt="Tails" width="150"/>
 
 </div>
 
 ---
 
-## 📌 Atualmente
+<div align="center">
 
-```text
-🎓 Ciência da Computação
-🐍 Python
-🗄️ PostgreSQL
-🤖 Inteligência Artificial
-🖥️ Suporte de TI & Hardware
-🎛️ Control Tower — MAPFRE/MAWDY
-```
+<img src="assets/sobre-mim-fade.gif" alt="Sobre mim" width="760"/>
+
+</div>
+
+## 🌀 Tecnologias & Estudos
 
 <div align="center">
 
-### ⚡ Keep learning. Keep building.
+| Linguagem | Banco de Dados | Suporte |
+|:---:|:---:|:---:|
+| 🐍 **Python** | 🐘 **PostgreSQL** | 🖥️ **Hardware** |
+| 📚 Em estudo | 🗄️ Em estudo | 🌐 **Redes** |
+
+</div>
+
+---
+
+## 💻 Linguagens que estudo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,html,css,js&theme=dark" alt="Tecnologias"/>
+
+</div>
+
+---
+
+## 💎 Chaos Emeralds
+
+<div align="center">
+
+🟢　🔵　🟣　🔴　🟡　🩵　⚪
+
+<sub>Power • Knowledge • Curiosity • Evolution</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🦔 “Gotta go fast — but code clean.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=80&section=footer"/>
 
 </div>
