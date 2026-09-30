@@ -1,16 +1,12 @@
 <div align="center">
 
-<!-- Sonic -->
-<img src="./assets/sonic.gif" width="180" alt="Sonic">
+<img src="./assets/sonic.png" width="170" alt="Sonic">
 
-# 💙 Olá! Eu sou o Math!
+# Teus
 
-### `Estudante de Ciência da Computação` • `Tecnologia` • `Control Tower` • `Python`
+**Estudante de Ciência da Computação • Tecnologia • Control Tower**
 
-<!-- Animação do título -->
-<a href="https://github.com/ImTheuzzPE">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo+Python+e+PostgreSQL;Explorando+IA+com+Claude%2C+GPT+e+Gemini;Tecnologia%2C+Suporte+e+Control+Tower" alt="Animação de texto">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Aprendendo.+Construindo.+Evoluindo." alt="Animação">
 
 </div>
 
@@ -18,108 +14,51 @@
 
 ## 🦔 Sobre mim
 
-<img align="right" src="./assets/sonic-sprite.gif" width="130" alt="Sonic em pixel art">
+<img align="right" src="./assets/sonic.png" width="115" alt="Sonic">
 
-> **"Gotta go fast... mas aprendendo uma coisa de cada vez."** ⚡
-
-Sou **estudante de Ciência da Computação**, construindo minha trajetória na área de Tecnologia e buscando evoluir constantemente através de projetos, estudos e experiências práticas.
-
-Atualmente, meus principais focos são:
+Sou **estudante de Ciência da Computação**, interessado em tecnologia e em transformar o que aprendo em prática.
 
 - 🐍 **Python**
 - 🗄️ **Banco de Dados — PostgreSQL**
 - 🖥️ **Suporte de TI & Hardware**
 - 🎛️ **Analista Control Tower — MAPFRE/MAWDY**
-- 🤖 **Inteligência Artificial — Claude, GPT & Gemini**
+- 🤖 **IA — Claude, GPT & Gemini**
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=900&color=1E90FF&center=true&vCenter=true&width=420&lines=%3E+Sobre+mim...;%3E+sempre+aprendendo+algo+novo." alt="Sobre mim">
+</div>
+
+---
+
+## 💻 Estudos & interesses
 
 <div align="center">
 
-### ⚡ Minha jornada na tecnologia
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,windows" height="48" alt="Tecnologias">
 
-`Estudos` ──► `Projetos` ──► `Prática` ──► `Evolução` ──► `GO FAST! 🦔`
+<br><br>
+
+<img src="https://img.shields.io/badge/Claude-111111?style=flat-square&logo=anthropic&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="GPT">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini">
 
 </div>
 
 ---
 
-## 💻 O que eu estudo & gosto
-
-<div align="center">
-
-### 🐍 Python
-<a href="https://www.python.org/">
-  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">
-</a>
-
-### 🗄️ Banco de Dados
-<a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="55" alt="PostgreSQL">
-</a>
-
-### 🤖 Inteligência Artificial
-<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
-<img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
-
-### 🖥️ TI & Hardware
-<a href="https://www.microsoft.com/windows/">
-  <img src="https://skillicons.dev/icons?i=windows" height="55" alt="Windows">
-</a>
-
-</div>
-
----
-
-## 🛠️ Tecnologias & ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,windows" alt="Tecnologias">
-
-</div>
-
----
-
-## 🎯 Atualmente
+## 📌 Atualmente
 
 ```text
 🎓 Ciência da Computação
-🐍 Estudando Python
-🗄️ Aprendendo PostgreSQL
-🤖 Explorando Inteligência Artificial
+🐍 Python
+🗄️ PostgreSQL
+🤖 Inteligência Artificial
 🖥️ Suporte de TI & Hardware
-🎛️ Atuação como Analista Control Tower — MAPFRE/MAWDY
-🚀 Criando projetos e evoluindo na área de Tecnologia
+🎛️ Control Tower — MAPFRE/MAWDY
 ```
 
----
-
-## 📊 GitHub
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImTheuzzPE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheuzzPE&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
-
-</div>
-
----
-
-## 🦔 Sonic Mode: ON
-
-<div align="center">
-
-<img src="./assets/sonic.gif" width="150" alt="Sonic">
-
-### `⚡ Keep learning. Keep building. Gotta go fast! ⚡`
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=ImTheuzzPE&color=1E90FF&style=for-the-badge&label=VISITAS)
+### ⚡ Keep learning. Keep building.
 
 </div>
