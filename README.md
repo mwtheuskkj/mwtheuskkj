@@ -1,77 +1,125 @@
 <div align="center">
 
-<!-- Banner Dinâmico em Degradê Azul -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=38&fontColor=ffffff&animation=twinkling&desc=Running%20at%20Supersonic%20Speed%20%E2%9A%A1&descSize=18&descAlignY=62" width="100%" />
+<!-- Sonic -->
+<img src="./assets/sonic.gif" width="180" alt="Sonic">
 
-<br/>
+# 💙 Olá! Eu sou o Teus!
 
-<!-- Ícones / GIFs Animados de Cabeçalho -->
-<a href="https://github.com/SEU-USUARIO-AQUI">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNmM2k0aWQzbDNpdGJocmlyczZzdzNlMTBuaWQzb25pdGJocmlycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/13J0KS5nMG61TW/giphy.gif" width="100" alt="Sonic Correndo" />
+### `Estudante de Ciência da Computação` • `Tecnologia` • `Control Tower` • `Python`
+
+<!-- Animação do título -->
+<a href="https://github.com/ImTheuzzPE">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Aprendendo+Python+e+PostgreSQL;Explorando+IA+com+Claude%2C+GPT+e+Gemini;Tecnologia%2C+Suporte+e+Control+Tower" alt="Animação de texto">
 </a>
 
-<br/><br/>
-
-<!-- Typit text / Digitação Animada -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Gotta+Go+Fast!;Learning+Python+%F0%9F%90%8D;Exploring+Databases+%F0%9F%97%84%EF%B8%8F;Building+Fast+%26+Clean+Code+%E2%9A%A1" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Gotta Go Fast](https://img.shields.io/badge/Sonic-Gotta_Go_Fast!-0066FF?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/SEU-USUARIO-AQUI)
-[![Theme Blue](https://img.shields.io/badge/Theme-Blue_Speed-0044AA?style=for-the-badge)](https://github.com/SEU-USUARIO-AQUI)
-
-<br/><br/>
-
-> 💬 *"Running wild and free — through code and databases at supersonic speed!"*
+</div>
 
 ---
 
-### 🌀 About Me
+## 🦔 Sobre mim
 
-Olá! Sou um entusiasta da tecnologia correndo na velocidade do som para dominar novas habilidades e construir projetos incríveis.
+<img align="right" src="./assets/sonic-sprite.gif" width="130" alt="Sonic em pixel art">
 
-- 🏃‍♂️ **Foco atual:** Evoluindo diariamente no desenvolvimento de software.
-- ⚡ **Nível de velocidade:** Sempre buscando otimizar código e performance.
-- 🎯 **Objetivo:** Dominar a arte de criar aplicações eficientes e estruturadas.
+> **"Gotta go fast... mas aprendendo uma coisa de cada vez."** ⚡
+
+Sou **estudante de Ciência da Computação**, construindo minha trajetória na área de Tecnologia e buscando evoluir constantemente através de projetos, estudos e experiências práticas.
+
+Atualmente, meus principais focos são:
+
+- 🐍 **Python**
+- 🗄️ **Banco de Dados — PostgreSQL**
+- 🖥️ **Suporte de TI & Hardware**
+- 🎛️ **Analista Control Tower — MAPFRE/MAWDY**
+- 🤖 **Inteligência Artificial — Claude, GPT & Gemini**
+
+<div align="center">
+
+### ⚡ Minha jornada na tecnologia
+
+`Estudos` ──► `Projetos` ──► `Prática` ──► `Evolução` ──► `GO FAST! 🦔`
+
+</div>
 
 ---
 
-### ⚡ Current Power-Ups (Aprendendo)
+## 💻 O que eu estudo & gosto
 
-<br/>
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/><br/><br/>
-      <b>Python</b><br/><br/>
-      <img src="https://img.shields.io/badge/Status-Learning-0066FF?style=flat-square" /><br/>
-      <sub>Coletando Chaos Emeralds com POO, automação e lógica de programação.</sub>
-    </td>
-    <td align="center" width="220">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/><br/><br/>
-      <b>Bancos de Dados</b><br/><br/>
-      <img src="https://img.shields.io/badge/Status-Collecting_Rings-0044AA?style=flat-square" /><br/>
-      <sub>Organizando dados em alta velocidade com SQL e modelagem.</sub>
-    </td>
-  </tr>
-</table>
+### 🐍 Python
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python">
+</a>
 
-<br/>
+### 🗄️ Banco de Dados
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgresql" height="55" alt="PostgreSQL">
+</a>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Matheus Pentogennis"
-        self.speed = "Supersonic"
-        self.learning = ["Python", "Databases"]
-        self.favorite_color = "Blue"
+### 🤖 Inteligência Artificial
+<img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+<img src="https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
 
-    def level_up(self):
-        return "Gotta Go Fast to the next level! 🦔⚡"
+### 🖥️ TI & Hardware
+<a href="https://www.microsoft.com/windows/">
+  <img src="https://skillicons.dev/icons?i=windows" height="55" alt="Windows">
+</a>
 
+</div>
 
-me = Developer()
-print(me.level_up())
+---
+
+## 🛠️ Tecnologias & ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode,windows" alt="Tecnologias">
+
+</div>
+
+---
+
+## 🎯 Atualmente
+
+```text
+🎓 Ciência da Computação
+🐍 Estudando Python
+🗄️ Aprendendo PostgreSQL
+🤖 Explorando Inteligência Artificial
+🖥️ Suporte de TI & Hardware
+🎛️ Atuação como Analista Control Tower — MAPFRE/MAWDY
+🚀 Criando projetos e evoluindo na área de Tecnologia
+```
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImTheuzzPE&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImTheuzzPE&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+
+</div>
+
+---
+
+## 🦔 Sonic Mode: ON
+
+<div align="center">
+
+<img src="./assets/sonic.gif" width="150" alt="Sonic">
+
+### `⚡ Keep learning. Keep building. Gotta go fast! ⚡`
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ImTheuzzPE&color=1E90FF&style=for-the-badge&label=VISITAS)
+
+</div>
