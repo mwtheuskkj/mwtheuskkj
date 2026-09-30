@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#111827"/>
+    <stop offset="1" stop-color="#0b1020"/>
+  </linearGradient>
+  <linearGradient id="island" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#355c45"/>
+    <stop offset="1" stop-color="#152d25"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#sky)"/>
+<!-- stars -->
+<g fill="#fff" opacity=".55">
+<circle cx="80" cy="70" r="2"/><circle cx="180" cy="45" r="1.5"/><circle cx="310" cy="85" r="2"/>
+<circle cx="460" cy="42" r="1.5"/><circle cx="690" cy="70" r="2"/><circle cx="860" cy="42" r="1.5"/>
+<circle cx="1030" cy="80" r="2"/><circle cx="1120" cy="48" r="1.5"/>
+</g>
+<!-- floating Angel Island -->
+<g transform="translate(600 0)">
+  <path d="M-285 230 C-210 170 -95 155 0 175 C100 153 215 170 285 230
+           C230 245 190 267 155 292 L90 330 L0 305 L-90 330 L-155 292 C-190 267 -230 245 -285 230Z"
+        fill="url(#island)" stroke="#4f8c67" stroke-width="3"/>
+  <path d="M-225 225 C-140 188 -55 188 0 199 C60 187 145 188 225 225
+           C160 217 100 222 0 235 C-100 222 -160 217 -225 225Z" fill="#5d9b58"/>
+  <path d="M-150 225 L-120 195 L-95 225 L-70 190 L-45 225 L-15 184 L10 225 L40 193 L65 225 L95 188 L120 225 L145 200 L165 228"
+        fill="none" stroke="#8bc56b" stroke-width="8" stroke-linecap="round"/>
+</g>
+<!-- emeralds -->
+<g filter="url(#glow)" transform="translate(965 108)">
+  <g transform="translate(0 0)"><polygon points="0,-16 12,-6 9,10 -9,10 -12,-6" fill="#38d66b"/></g>
+  <g transform="translate(34 10)"><polygon points="0,-16 12,-6 9,10 -9,10 -12,-6" fill="#35b8ff"/></g>
+  <g transform="translate(67 0)"><polygon points="0,-16 12,-6 9,10 -9,10 -12,-6" fill="#b66cff"/></g>
+  <g transform="translate(101 10)"><polygon points="0,-16 12,-6 9,10 -9,10 -12,-6" fill="#ff4b4b"/></g>
+  <g transform="translate(135 0)"><polygon points="0,-16 12,-6 9,10 -9,10 -12,-6" fill="#ffd84a"/></g>
+  <g transform="translate(169 10)"><polygon points="0,-16 12,-6 9,10 -9,10 -12,-6" fill="#6ee7e7"/></g>
+  <g transform="translate(203 0)"><polygon points="0,-16 12,-6 9,10 -9,10 -12,-6" fill="#f3f4f6"/></g>
+</g>
+<text x="70" y="118" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700">THEUZ.DEV</text>
+<text x="73" y="153" fill="#9ca3af" font-family="Arial,Helvetica,sans-serif" font-size="18">Backend • Databases • IT Support</text>
+</svg>
