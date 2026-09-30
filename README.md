@@ -3,7 +3,7 @@
 <!-- Sonic -->
 <img src="./assets/sonic.gif" width="180" alt="Sonic">
 
-# 💙 Olá! Eu sou o Teus!
+# 💙 Olá! Eu sou o Math!
 
 ### `Estudante de Ciência da Computação` • `Tecnologia` • `Control Tower` • `Python`
 
